@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rufaig6
 - 👀 I’m interested in ... Machine learning with Graphs, Computer Vision, Natural language processing, Remote Sensing & Deep learning
 - 🌱 I’m currently learning ... Computer Vision
-- 💞️ I’m looking to collaborate on ... Visual Queation Answering (Images/Videos), Knowledge graph completion, Visual Dialog, & Commonsense Reasoning
+- 💞️ I’m looking to collaborate on ... Visual Queation Answering.
 - 📫 How to reach me ... rufaig6@gmail.com; +2348036695717
 
 <!---
